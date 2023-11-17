@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- *fetchPath - fetchesthe value of the PATH  variable.
+ *retrievePath - fetchesthe value of the PATH  variable.
  *
  * Return: A pointer to the value of the PATH variable.
  */
